@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Framd.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+				<key>dateExpires</key>
+				<string>15/10/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+						<key>dateExpires</key>
+						<string>15/10/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ERJustifiedFlowLayout.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>83F2K42Z25</string>
+						<key>name</key>
+						<string>Framd Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+						<key>dateExpires</key>
+						<string>15/10/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>83F2K42Z25</string>
+						<key>name</key>
+						<string>Framd Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+						<key>dateExpires</key>
+						<string>15/10/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>83F2K42Z25</string>
+						<key>name</key>
+						<string>Framd Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+						<key>dateExpires</key>
+						<string>15/10/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>PhoneCountryCodePicker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>83F2K42Z25</string>
+						<key>name</key>
+						<string>Framd Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+						<key>dateExpires</key>
+						<string>15/10/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Stripe.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>83F2K42Z25</string>
+						<key>name</key>
+						<string>Framd Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D57C8BF06F5BFC7BA2E45A7CE50072B9D2761E7C</string>
+						<key>dateExpires</key>
+						<string>15/10/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>83F2K42Z25</string>
+						<key>name</key>
+						<string>Framd Limited</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>83F2K42Z25.Framd.Framd</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>83F2K42Z25</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Framd.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2c2af52a-f92d-4def-8aca-38498f8574c9</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: Framd.Framd</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>83F2K42Z25</string>
+				<key>name</key>
+				<string>Framd Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
